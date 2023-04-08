@@ -21,7 +21,7 @@ This example illustrates an approach described in the <a href="https://www.devex
 - [Map Overview](https://js.devexpress.com/Documentation/Guide/UI_Components/Map/Overview/)
 - [Map - API Reference](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxMap/)
 
-## See Also:
+## See Also
 
 - [Map for DevExtreme - How to add the current location marker](http://www.devexpress.com/Support/Center/Example/Details/E4734)
 
