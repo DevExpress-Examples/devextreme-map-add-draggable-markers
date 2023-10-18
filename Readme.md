@@ -6,9 +6,9 @@
 
 # Map for DevExtreme - How to add draggable markers
 
-This example illustrates an approach described in the <a href="https://www.devexpress.com/Support/Center/p/KA18782">How to take advantage of map provider API features that were not implemented in the dxMap widget?</a> Knowledge Base article.
+This example demonstrates how to add draggable markers to your Map component when you use Google as a provider.
 
-<div align="center"><img alt="Map for DevExtreme - How to add draggable markers" src="dx-map-add-draggable-markers.png" /></div>
+<div align="center"><img alt="Map for DevExtreme - How to add draggable markers" src="map-draggable-marker.gif" /></div>
 
 ## Files to Review
 
@@ -24,7 +24,3 @@ This example illustrates an approach described in the <a href="https://www.devex
 ## See Also
 
 - [Map for DevExtreme - How to add the current location marker](http://www.devexpress.com/Support/Center/Example/Details/E4734)
-
-
-
-

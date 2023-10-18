@@ -8,6 +8,9 @@ $(function(){
         value: lng
     });
     $("#map").dxMap({
+        apiKey: {
+            google: 'YOUR_API_KEY',
+        },
         zoom: 20,
         width: 1200,
         height: 700,
