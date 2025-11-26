@@ -9,13 +9,13 @@
 
 This example demonstrates how to add draggable markers to your Map component when you use Google as a provider.
 
-<div align="center"><img alt="Map for DevExtreme - How to add draggable markers" src="map-draggable-marker.gif" /></div>
+<div align="center"><img alt="Map for DevExtreme - How to add draggable markers" src="images/map-draggable-marker.gif" /></div>
 
 ## Files to Review
 
 - **jQuery**
-    - [index.html](jQuery/index.html)
-    - [script.js](jQuery/script.js)
+    - [index.html](jQuery/src/index.html)
+    - [script.js](jQuery/src/script.js)
 
 ## Documentation
 
