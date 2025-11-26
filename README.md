@@ -14,7 +14,7 @@ This example demonstrates how to add draggable markers to your Map component whe
 
 - **jQuery**
     - [index.html](jQuery/src/index.html)
-    - [script.js](jQuery/src/script.js)
+    - [script.js](jQuery/src/index.js)
 
 ## Documentation
 
