@@ -1,5 +1,4 @@
 <!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128584430/25.1.3%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4639)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 [![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
@@ -9,13 +8,13 @@
 
 This example demonstrates how to add draggable markers to your Map component when you use Google as a provider.
 
-<div align="center"><img alt="Map for DevExtreme - How to add draggable markers" src="map-draggable-marker.gif" /></div>
+<div align="center"><img alt="Map for DevExtreme - How to add draggable markers" src="images/map-draggable-marker.gif" /></div>
 
 ## Files to Review
 
 - **jQuery**
-    - [index.html](jQuery/index.html)
-    - [script.js](jQuery/script.js)
+    - [index.html](jQuery/src/index.html)
+    - [script.js](jQuery/src/index.js)
 
 ## Documentation
 
