@@ -26,7 +26,7 @@ This example demonstrates how to add draggable markers to your Map component whe
 
 - [Map for DevExtreme - How to add the current location marker](http://www.devexpress.com/Support/Center/Example/Details/E4734)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=devextreme-map-add-draggable-markers&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=devextreme-map-add-draggable-markers&~~~was_helpful=no)
 
